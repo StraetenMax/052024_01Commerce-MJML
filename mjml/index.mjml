@@ -3,18 +3,26 @@
   <mj-head>
     <mj-title>Ecosup Commerce 052024</mj-title>
     <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&amp;display=swap"/>
+    <mj-raw>
+      <meta name="color-scheme" content="light"></meta>
+      <meta name="supported-color-schemes" content="light"></meta>
+    </mj-raw>
     <mj-attributes>
       <mj-all font-family="Roboto, Arial, Helvetica, sans-serif"/>
-      <mj-class name="D_text" font-size="16px" font-weight="300" line-height="20px" color="#313131"/>
-      <mj-class name="D_footer" font-size="12px" font-weight="300" line-height="16px" color="#313131"/>
+      <mj-class name="D_text" font-size="16px" font-weight="400" line-height="20px" color="#2D3748"/>
+      <mj-class name="D_footer" font-size="12px" font-weight="300" line-height="16px" color="#2D3748"/>
     </mj-attributes>
     <mj-style>
       .hover:hover td, .hover:hover a{
           background-color: #06421C !important;
       }
+      .hoverA:hover td, .hoverA:hover a{
+          background-color: #AA3E17 !important;
+          color: #EC6608 !important;
+      }
     </mj-style>
   </mj-head>
-  <mj-body background-color="#E8E9EA">
+  <mj-body background-color="#edf2f7">
     <mj-section padding="0" background-color="#ffffff">
       <mj-column width="600px" padding="0">
         <mj-image padding="0" border="none" src="https://img.mailinblue.com/3403292/images/content_library/original/65ffecee9d8a3bdbe17813ea.jpg" alt="Galerie Marchande dans un centre commercial"/>
@@ -32,29 +40,34 @@
         <mj-text mj-class="D_text">Alors contacte moi :</mj-text>
       </mj-column>
     </mj-section>
-    <mj-section padding="0" background-color="#ffffff">      
+    <mj-section padding-top="0" background-color="#ffffff">      
       <mj-group width="180px">
         <mj-column width="50%">
-          <mj-button css-class="hover" href="mailto:ml-wallaert@ecosup-campus.fr" target="_blank" padding="0" inner-padding="0" width="60px" height="60px" border-radius="5px" background-color="#198754" line-height="36px"><img src="https://img.mailinblue.com/3403292/images/content_library/original/65ffecfb9d8a3bdbe17813ec.png" style="width:36px;text-align:center;vertical-align:middle;" alt="Contact Email"/></mj-button>
+          <mj-button css-class="hover" href="mailto:ml.wallaert@ecosup-campus.fr" align="right" target="_blank" padding="0 15px 0 0" inner-padding="0" width="60px" height="60px" border-radius="5px" background-color="#198754" line-height="36px"><img src="https://img.mailinblue.com/3403292/images/content_library/original/65ffecfb9d8a3bdbe17813ec.png" style="width:36px;text-align:center;vertical-align:middle;" alt="Contact Email"/></mj-button>
         </mj-column>
         <mj-column width="50%">
-          <mj-button css-class="hover" href="tel:+33320700606" target="_blank" padding="0" inner-padding="0" width="60px" height="60px" border-radius="5px" background-color="#198754" line-height="36px"><img src="https://img.mailinblue.com/3403292/images/content_library/original/65ffed049d8a3bdbe17813ed.png" style="width:36px;text-align:center;vertical-align:middle;" alt="Contact Phone"/></mj-button>
+          <mj-button css-class="hover" href="tel:+33320700606" align="left" target="_blank" padding="0 0 0 15px" inner-padding="0" width="60px" height="60px" border-radius="5px" background-color="#198754" line-height="36px"><img src="https://img.mailinblue.com/3403292/images/content_library/original/65ffed049d8a3bdbe17813ed.png" style="width:36px;text-align:center;vertical-align:middle;" alt="Contact Phone"/></mj-button>
         </mj-column>
       </mj-group>
     </mj-section>
     <mj-section background-color="#ffffff">
       <mj-group width="480px">
-        <mj-column width="50%">
-          <mj-image/>
+        <mj-column width="40%">
+          <mj-image align="right" padding="0" width="100px" src="https://i.ibb.co/Mskj4kV/Marie-Laurence.jpg"/>
         </mj-column>
-        <mj-column width="50%">
+        <mj-column width="60%">
           <mj-text mj-class="D_text" padding-bottom="0">À bientôt</mj-text>
-          <mj-text mj-class="D_text" padding-top="0" padding-bottom="0">Marie-Laurence Wallaert</mj-text>
+          <mj-text mj-class="D_text" padding-top="0" padding-bottom="0"><span style="font-weight:700;">Marie-Laurence</span> <span style="text-transform:uppercase;font-weight:700;">Wallaert</span></mj-text>
           <mj-text mj-class="D_text" padding-top="0" padding-bottom="0">Responsable pédagogique</mj-text>
           <mj-text mj-class="D_text" padding-top="0" padding-bottom="0">Ecosup-commerce</mj-text>
           <mj-text mj-class="D_text" padding-top="0">Tourcoing</mj-text>
         </mj-column>
       </mj-group>
+    </mj-section>
+    <mj-section background-color="#ffffff">
+      <mj-column width="480px">
+        <mj-button css-class="hoverA" font-size="16px" font-weight="600" background-color="#EC6608" border-radius="5px" text-transform="uppercase" inner-padding="14px 24px" href="https://ecosup-commerce.fr/wp-content/uploads/2024/01/FicheBACHELORRDC16012024.pdf">Télécharger la fiche</mj-button>
+      </mj-column>
     </mj-section>
     <mj-section>
       <mj-column width="480px">
