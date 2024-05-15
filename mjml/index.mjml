@@ -30,7 +30,8 @@
     </mj-section>
     <mj-section padding-bottom="0" background-color="#ffffff">
       <mj-column width="480px">
-        <mj-text mj-class="D_text">Tu termines ta deuxième année de BTS, et si tu te tournais vers une spécialisation en <strong>Bachelor Responsable de Développement Commercial</strong> en <strong>Alternance</strong> à <strong>Ecosup Commerce</strong> ?</mj-text>
+        <mj-text font-size="16px" font-weight="900" line-height="20px" color="#AA3E17" padding-top="0" padding-bottom="0" text-transform="uppercase">Bachelor RDC</mj-text>
+        <mj-text font-size="24px" font-weight="400" line-height="26px" color="#EC6608" padding-top="0">Et si ton avenir professionnel passait par <strong>l'Alternance</strong> ?</mj-text>
         <mj-text mj-class="D_text" padding-bottom="0">Le <strong>Bachelor RDC</strong> te permet d'appronfondir tes compétences en commerce. Tu vas apprendre à :</mj-text>
         <mj-text mj-class="D_text" padding-top="0" padding-bottom="0" padding-left="40px">- Piloter le développement opérationnel du plan d'action,</mj-text>
         <mj-text mj-class="D_text" padding-top="0" padding-bottom="0" padding-left="40px">- Développer la stratégie de croissance de l'entreprise,</mj-text>
@@ -66,7 +67,7 @@
     </mj-section>
     <mj-section background-color="#ffffff">
       <mj-column width="480px">
-        <mj-button css-class="hoverA" font-size="16px" font-weight="600" background-color="#EC6608" border-radius="5px" text-transform="uppercase" inner-padding="14px 24px" href="https://ecosup-commerce.fr/wp-content/uploads/2024/01/FicheBACHELORRDC16012024.pdf">Télécharger la fiche</mj-button>
+        <mj-button css-class="hoverA" font-size="16px" font-weight="600" background-color="#EC6608" border-radius="5px" text-transform="uppercase" inner-padding="14px 24px" href="https://ecosup-commerce.fr/wp-content/uploads/2024/01/FicheBACHELORRDC16012024.pdf">Télécharger la fiche Bachelor RDC</mj-button>
       </mj-column>
     </mj-section>
     <mj-section>
