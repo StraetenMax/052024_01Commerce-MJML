@@ -32,6 +32,7 @@
       <mj-column width="480px">
         <mj-text font-size="16px" font-weight="900" line-height="20px" color="#AA3E17" padding-top="0" padding-bottom="0" text-transform="uppercase">Bachelor RDC</mj-text>
         <mj-text font-size="24px" font-weight="400" line-height="26px" color="#EC6608" padding-top="0">Et si ton avenir professionnel passait par <strong>l'Alternance</strong> ?</mj-text>
+        <mj-text mj-class="D_text">Tu termines ta deuxième année de BTS, et si tu te tournais vers une spécialisation en <strong>Bachelor Responsable de Développement Commercial</strong> en <strong>Alternance</strong> à <strong>Ecosup Commerce</strong> ?</mj-text>
         <mj-text mj-class="D_text" padding-bottom="0">Le <strong>Bachelor RDC</strong> te permet d'appronfondir tes compétences en commerce. Tu vas apprendre à :</mj-text>
         <mj-text mj-class="D_text" padding-top="0" padding-bottom="0" padding-left="40px">- Piloter le développement opérationnel du plan d'action,</mj-text>
         <mj-text mj-class="D_text" padding-top="0" padding-bottom="0" padding-left="40px">- Développer la stratégie de croissance de l'entreprise,</mj-text>
@@ -54,7 +55,7 @@
     <mj-section background-color="#ffffff">
       <mj-group width="480px">
         <mj-column width="40%">
-          <mj-image align="right" padding="0" width="100px" src="https://i.ibb.co/Mskj4kV/Marie-Laurence.jpg"/>
+          <mj-image align="right" padding="0" width="100px" src="https://i.ibb.co/Mskj4kV/Marie-Laurence.jpg" alt="Laurence Wallaert responsable pédagogique"/>
         </mj-column>
         <mj-column width="60%">
           <mj-text mj-class="D_text" padding-bottom="0">À bientôt</mj-text>
